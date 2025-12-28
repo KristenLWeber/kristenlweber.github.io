@@ -147,6 +147,15 @@ a:hover {
   border-color: var(--purple-accent);
   box-shadow: 0 4px 12px rgba(90, 42, 130, 0.15);
 }
+.value-number {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--purple-primary);
+    opacity: 0.2;
+    margin-bottom: 0.5rem;
+}
+
+
 
 /* CARDS (Case Studies, White Papers, etc.) */
 .card {
